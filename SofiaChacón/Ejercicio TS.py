@@ -7,4 +7,10 @@ def Ts(dim):
     return (matriz, Ts)
 dim=10
 matriz, Ts= Ts(dim)
+<<<<<<< Updated upstream
 print(matriz, Ts)
+=======
+print(matriz, Ts) 
+
+##np.where
+>>>>>>> Stashed changes
