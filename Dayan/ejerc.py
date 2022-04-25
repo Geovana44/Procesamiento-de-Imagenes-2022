@@ -116,6 +116,7 @@ while True:
         print("Resultado: ",obj.KERNEL10())
           
     elif Op == 0:
+        #3
         print('Vuelva a intentar')
         break
     else:
